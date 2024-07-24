@@ -73,7 +73,7 @@ Dataset contains 11 columns, each are:
 
 (5) Where are the most employee residences
  
-### Link to the Jupyter notebook https://github.com/omoniyidamilola/EDA-ON-DATA-PROFESSIONALS-SALARIES/blob/main/Python%20Project1%20.ipynb 
+### Link to Jupyter notebook: https://github.com/omoniyidamilola/EDA-ON-DATA-PROFESSIONALS-SALARIES/blob/main/Python%20Project1%20.ipynb 
 
 ### Insights From the Report
 
