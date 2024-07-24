@@ -1,6 +1,6 @@
-# EDA-ON-DATA-PROFESSIONALS-SALARIES
+# Exploratory Data Analysis(EDA)-ON-DATA-PROFESSIONALS-SALARIES
 This project was done using python.
-# EDA ON DATA PROFESSIONALS SALARIES
+
 
 ## About the dataset
 
