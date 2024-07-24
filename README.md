@@ -73,6 +73,7 @@ Dataset contains 11 columns, each are:
 
 (5) Where are the most employee residences
  
+### Link to the Jupyter notebook https://github.com/omoniyidamilola/EDA-ON-DATA-PROFESSIONALS-SALARIES/blob/main/Python%20Project1%20.ipynb 
 
 ### Insights From the Report
 
@@ -115,6 +116,9 @@ Company should consider offering additional perks, such as flexible working hour
 Majority of the employees reside in the USA, company should consider expanding recruitment efforts to diversify the employee base.
 
 Although company seems to have a preference for either fully remote or onsite work, it is important to consider implementing a hybrid approach that allows flexibility and accomodates employee prerferences. Conduct surveys or gather feedback to assess the feasibility and desirability of a hybrid work model within the company.
+
+
+
 
 Implement initiatives to enhance employee engagement and wellbeing. This can include fostering a positive work culture, promoting work-life balance, providing mental health resourses and encouraging open communication channels within the organization.
 
