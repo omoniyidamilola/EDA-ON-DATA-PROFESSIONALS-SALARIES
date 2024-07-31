@@ -1,58 +1,37 @@
-# Exploratory Data Analysis(EDA)-ON-DATA-PROFESSIONALS-SALARIES
-This project was done using python.
+# Exploratory Data Analysis(EDA) ON DATA PROFESSIONALS SALARIES
 
+This project was done using python.
 
 ## About the dataset
 
 The data was downloaded from Kaggle datasets: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023/download?datasetVersionNumber=1
 
-Data Science Job Salaries  
+### Data Science Job Salaries  
+
 Dataset contains 11 columns, each are: 
-
-
 
 1.  work_year: The year salary was paid.
 
-
-
 2.  experience_level: The experience level in the job during the year.
-      
-      
-      
+            
 3.  employment_type: The type of employment for the role.
-      
-      
       
 4.  job_title: The role worked in during the year.
 
-
-
 5.  salary: The total gross salary amount paid.
-
-
 
 6.  salary_currency: The currency of the salary paid as an ISO 4217 currency code.
 
-
-
 7.  salary_in_usd: The salary in USD.
 
-
-
 8.  employee_resisdence: Employee's primary country of resisdence during the work year as an ISO 3166 country code(Alpha-2 code).
-
-
 
 9.  remote_ratio: The overall amount of work done remotely:
         (a) 0 = No remote work (less than 20%),
         (b) 50 = Partially remote,
         (c) 100 = Fully remote(more than 80%).
-        
-        
-        
+                
 10. company_location: The country of the employer's main office or contracting branch.
-
-
 
 11. company_size: The average number of people that worked for the company during the year.
         (a) S (small) = less than 50 employees,
